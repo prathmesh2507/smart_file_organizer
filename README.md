@@ -85,16 +85,6 @@ smart-file-organizer/
 
 ---
 
-## 🔗 Part of a Larger Project Sprint
-- This project is part of my 90 Days • 30 Mini Projects journey —focused on building real, usable software instead of toy examples.
-
----
-
-## 👉 Main Index Repository
-- 🔗 https://github.com/prathmesh2507/90-days-30-mini-projects
-
----
-
 ## 🤝 Contributing
 - Suggestions and improvements are always welcome 🙌
 - Feel free to fork the repository or open an issue for enhancements or bug fixes.
